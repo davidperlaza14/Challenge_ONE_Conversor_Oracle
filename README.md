@@ -19,6 +19,5 @@ En esta oportunidad, a los Devs se nos solicitó crear un conversor de divisas u
     - Convertir de Yen Japonés a la moneda de tu país
     - Convertir de Won sul-coreano a la moneda de tu país
  
-![ChallengeOracleONE](https://github.com/davidperlaza14/Challenge_ONE_Conversor_Oracle/assets/85265710/39909eb0-aa20-4b10-b43b-7067820cdc98)
 
 
